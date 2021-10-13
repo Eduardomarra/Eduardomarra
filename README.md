@@ -25,6 +25,8 @@
 <br>
 <br>
 
+ ##
+  
 <!--
   Icons retirados em https://devicon.dev/. Icones em formato SVG
 -->
@@ -53,8 +55,8 @@
   <img align="center" alt="eduardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
   <img align="center" alt="eduardo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div><br>
-  <br>
-  <br>
+  
+  ##
   
 <!--
   Icons redes sociais retirados em https://dev.to/envoy_/150-badges-for-github-pnk.
