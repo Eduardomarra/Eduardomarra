@@ -1,5 +1,5 @@
 ## Olá, sou o Eduardo Marra. 
-### Graduando em Ciências da Computação e estudante de Front-end.
+### Estudante de Front-end.
 <br>
 <br>
 
