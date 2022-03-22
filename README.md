@@ -52,7 +52,10 @@
 ### Desafios:
   #### Codelândia
 <div style="display: inline_block">
-  <a href="https://20-portfolio.vercel.app" target="_blank">20 - Portfólio</a>
+  <a href="https://github.com/Eduardomarra/09-portfolio" target="_blank">09 - Portfólio</a>
+</div><br>
+  <div style="display: inline_block">
+  <a href="https://github.com/Eduardomarra/20-portfolio" target="_blank">20 - Portfólio</a>
 </div><br>
   
 ### Projetos:
