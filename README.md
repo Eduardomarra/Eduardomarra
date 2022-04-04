@@ -50,7 +50,6 @@
 </div><br>
   
 ### Desafios:
-  #### Codelândia
 <div style="display: inline_block">
   <a href="https://github.com/Eduardomarra/09-portfolio" target="_blank">09 - Portfólio</a>
 </div><br>
