@@ -49,22 +49,13 @@
   <img align="center" alt="eduardo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 </div><br>
   
-### Desafios:
+### Projetos Desenvolvidos:
 <div style="display: inline_block">
   <a href="https://github.com/Eduardomarra/09-portfolio" target="_blank">09 - Portfólio</a>
 </div><br>
   <div style="display: inline_block">
   <a href="https://github.com/Eduardomarra/20-portfolio" target="_blank">20 - Portfólio</a>
 </div><br>
-  
-### Projetos:
-  <div style="display: inline_block">
-   
-  </div><br>
-  
-  ##
-  
- 
 
   ##
   
