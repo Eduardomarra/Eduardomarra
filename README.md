@@ -60,6 +60,14 @@
   <a href="https://github.com/Eduardomarra/22-repos-git" target="_blank">22 - Projetos (repositórios GitHub)</a>
 </div><br>
   
+  
+  ### Projetos Figma:
+   <div style="display: inline_block">
+      <a href="https://github.com/Eduardomarra/NFT-Marketplace" target="_blank">NFT - Marketplace</a>
+   </div><br>
+  
+  
+  
 
   ##
   
