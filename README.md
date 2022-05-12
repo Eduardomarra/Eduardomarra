@@ -1,5 +1,5 @@
 ## Olá, sou o Eduardo Marra. 
-### React | TypeScript | JavaScript | Front-end.
+### React | TypeScript | JavaScript | Front-end Developer.
 <br>
 <br>
 
