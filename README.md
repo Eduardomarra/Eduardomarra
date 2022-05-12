@@ -1,5 +1,5 @@
 ## Olá, sou o Eduardo Marra. 
-### Estudante de Front-end.
+### React | TypeScript | JavaScript | Front-end.
 <br>
 <br>
 
