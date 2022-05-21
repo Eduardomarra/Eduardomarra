@@ -51,23 +51,20 @@
   
 ### Projetos Desenvolvidos:
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/09-portfolio" target="_blank">09 - Portfólio</a>
+  <a href="https://github.com/Eduardomarra/09-portfolio" target="__blank">09 - Portfólio</a>
 </div><br>
   <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/20-portfolio" target="_blank">20 - Portfólio</a>
+  <a href="https://github.com/Eduardomarra/20-portfolio" target="__blank">20 - Portfólio</a>
 </div><br>
    <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/22-repos-git" target="_blank">22 - Projetos (repositórios GitHub)</a>
+  <a href="https://github.com/Eduardomarra/22-repos-git" target="__blank">22 - Projetos (repositórios GitHub)</a>
 </div><br>
-  
-  
-  ### Projetos Figma:
-   <div style="display: inline_block">
-      <a href="https://github.com/Eduardomarra/NFT-Marketplace" target="_blank">NFT - Marketplace</a>
-   </div><br>
-  
-  
-  
+<div style="display: inline_block">
+  <a href="https://github.com/Eduardomarra/NFT-Marketplace" target="__blank">NFT - Marketplace</a>
+</div><br>
+<div style="display: inline_block">
+  <a href="https://github.com/Eduardomarra/rocket-nft-react" target="__blank">Rocket - NFT</a>
+</div><br>
 
   ##
   
