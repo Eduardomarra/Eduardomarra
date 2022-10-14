@@ -73,7 +73,7 @@
   <a href="https://github.com/Eduardomarra/dsmeta" target="__blank">DSMeta</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/projeto-final-angular-MJV" target="__blank">Naped - Blog de entretenimento</a>
+  <a href="https://github.com/Eduardomarra/naped-blog" target="__blank">Naped - Blog de entretenimento</a>
 </div><br>
 
 
