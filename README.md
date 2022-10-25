@@ -52,28 +52,28 @@
   
 ### Projetos Desenvolvidos:
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/09-portfolio" target="__blank">09 - Portfólio</a>
+  <a href="https://github.com/Eduardomarra/09-portfolio" target="__blank">09 - Portfólio (ReactJs)</a>
 </div><br>
   <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/20-portfolio" target="__blank">20 - Portfólio</a>
+  <a href="https://github.com/Eduardomarra/20-portfolio" target="__blank">20 - Portfólio (ReactJs)</a>
 </div><br>
    <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/22-repos-git" target="__blank">22 - Projetos (repositórios GitHub)</a>
+  <a href="https://github.com/Eduardomarra/22-repos-git" target="__blank">22 - Projetos - repositórios GitHub (Javascript)</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/NFT-Marketplace" target="__blank">NFT - Marketplace</a>
+  <a href="https://github.com/Eduardomarra/NFT-Marketplace" target="__blank">NFT - Marketplace (Javascript)</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/rocket-nft-react" target="__blank">Rocket - NFT</a>
+  <a href="https://github.com/Eduardomarra/rocket-nft-react" target="__blank">Rocket - NFT (ReactJs)</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/GroceYish" target="__blank">Groce-yish-Web</a>
+  <a href="https://github.com/Eduardomarra/GroceYish" target="__blank">Groce-yish-Web (Javascript)</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/dsmeta" target="__blank">DSMeta</a>
+  <a href="https://github.com/Eduardomarra/dsmeta" target="__blank">DSMeta (ReactJs - Spring)</a>
 </div><br>
 <div style="display: inline_block">
-  <a href="https://github.com/Eduardomarra/naped-blog" target="__blank">Naped - Blog de entretenimento</a>
+  <a href="https://github.com/Eduardomarra/naped-blog" target="__blank">Naped - Blog de entretenimento (Angular)</a>
 </div><br>
 
 
