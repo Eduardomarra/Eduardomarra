@@ -1,5 +1,11 @@
-## Olá, sou o Eduardo Marra. 
-### React | Angular | TypeScript | JavaScript | Front-end Developer.
+# Olá, sou o Eduardo Marra. 
+
+## Frontend
+### Angular | React | TypeScript | JavaScript
+<br>
+
+## Backend
+### Java | Spring
 <br>
 <br>
 
@@ -41,13 +47,14 @@
   <img align="center" alt="eduardo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="eduardo-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div><br>
-  
-### Tecnologias em aprendizagem:
 <div style="display: inline_block">
   <img align="center" alt="eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eduardo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="eduardo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="eduardo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="eduardo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img  align="center" alt="eduardo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+
 </div><br>
   
 ### Projetos Desenvolvidos:
