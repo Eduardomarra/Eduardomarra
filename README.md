@@ -19,8 +19,8 @@
 -->
 <div align="center">
   <a href="https://github.com/Eduardomarra">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardomarra&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardomarra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=Eduardomarra&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Eduardomarra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <br>
