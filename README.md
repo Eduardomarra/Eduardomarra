@@ -1,7 +1,7 @@
 # Olá, sou o Eduardo Marra. 
 
 ## Frontend
-### Angular | React | TypeScript | JavaScript
+### Angular | TypeScript | JavaScript
 <br>
 
 ## Backend
