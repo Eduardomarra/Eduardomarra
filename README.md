@@ -1,11 +1,7 @@
 # Olá, sou o Eduardo Marra. 
 
-## Frontend
-### Angular | TypeScript | JavaScript
-<br>
+## Desenvolvedor Angular, Java e Spring
 
-## Backend
-### Java | Spring
 <br>
 <br>
 
